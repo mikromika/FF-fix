@@ -12,6 +12,6 @@ firefox
 ```
 <br>
 And remember change your file as execute, <br>
-``` chmod +x <filename>  ```
 
+``` chmod +x <filename>  ```
 
